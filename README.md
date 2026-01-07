@@ -31,3 +31,42 @@ Perfect for **HIIT, cardio, yoga, strength training**, and more.
 - Spotipy (Spotify API)
 - YTMusicAPI (YouTube Music)
 ---
+
+
+📌 Example Output
+HIIT Workout Playlist:
+1. Lose Yourself - Eminem (5:26)
+2. Till I Collapse - Eminem (4:57)
+3. Believer - Imagine Dragons (3:24)
+
+Total Duration: 14:47
+
+🎯 Learning Outcomes
+
+Python OOP concepts
+
+Working with JSON data
+
+CLI-based application design
+
+API integration basics
+
+Real-world fitness + music logic
+
+🔐 API Setup (Optional)
+
+To enable Spotify or YouTube Music:
+
+Add your API credentials in the respective client classes
+
+Install required libraries from requirements.txt
+
+👨‍💻 Author
+
+Atul Anand
+BCA (Hons)
+Amity University, Noida
+
+⭐ Support
+
+If you like this project, don’t forget to star ⭐ the repository!
