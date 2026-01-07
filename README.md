@@ -31,5 +31,3 @@ Perfect for **HIIT, cardio, yoga, strength training**, and more.
 - Spotipy (Spotify API)
 - YTMusicAPI (YouTube Music)
 ---
-git clone https://github.com/your-username/workout-playlist-generator.git
-cd workout-playlist-generator
